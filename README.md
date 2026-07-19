@@ -1,5 +1,10 @@
 <style>
-  /* 彻底隐藏所有标题自动渲染出来的 🔗 符号和锚点链接 */
+  /* 1. 彻底干掉 GitHub 官方主题强行加在最顶部的“Stockfish-2921769”横幅和仓库名 */
+  header, .page-header, .site-header, .site-title, .project-name, .project-tagline { 
+    display: none !important; 
+  }
+
+  /* 2. 强制隐藏所有标题自动生成的 🔗 符号 */
   .anchor, .header-link, .markdown-body a.anchor, .markdown-body a.header-link { 
     display: none !important; 
   }
@@ -10,7 +15,6 @@
 <table border="0">
   <tr>
     <td width="140" valign="top">
-      <!-- 自动调用你 GitHub 的官方高清头像 -->
       <img src="https://github.com/Stockfish-2921769.png" width="120" style="border-radius: 50%; border: 2px solid #e1e4e8;" alt="Profile Picture"/>
     </td>
     <td valign="top">
@@ -39,6 +43,6 @@
 
 ## 联系方式 / Connect with me
 
-* 🌐 **个人主页：** [stockfish-2921769.github.io](https://stockfish-2921769.github.io/Stockfish-2921769/)
+* 🌐 **个人主页：** [鳕鱼的云端主页](https://stockfish-2921769.github.io/Stockfish-2921769/)
 * 📧 **电子邮箱：** weizhuofan2002@gmail.com
 * 💬 **微信 WeChat：** w2921769
