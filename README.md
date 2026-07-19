@@ -1,47 +1,60 @@
-<!-- 这里是你的 GitHub 主页开始的地方 -->
+# 🪐 Stockfish-2921769
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DF1E&width=435&lines=%F0%9F%9A%80+%E5%97%EF%BC%8C%E6%E6%98+Stockfish-2921769;%F0%9F%92%BB+用代码改变世界，或者被代码改变。;Keep+Moving." alt="Typing SVG" />
-</h1>
-
-<!-- 一句话介绍 -->
-<p align="center">
-  *一个正在 GitHub 的星辰大海里全速前行的开源探索者。*
-</p>
+> **“ Stay hungry, stay foolish. 用代码探寻世界的边界。”**
+> — *An open-source enthusiast.*
 
 ---
 
-### 🛠️ 常用技能树 (Skills)
-<!-- 使用 Shields.io 制作的漂亮图标 -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+## 👤 关于我 / About Me
+
+<table border="0">
+  <tr>
+    <td width="120" valign="top">
+      <!-- 自动调用你 GitHub 的官方高清头像，完美保持同步 -->
+      <img src="https://github.com/Stockfish-2921769.png" width="100" style="border-radius: 50%; border: 2px solid #e1e4e8;" alt="Profile Picture"/>
+    </td>
+    <td valign="top">
+      <p>你好，我是 <b>Stockfish-2921769</b>。我是一名热衷于探索新技术的开发者。我喜欢简洁的代码、纯粹的终端，以及用文字记录自己的成长。这里是我在云端的数字花园。</p>
+      <p>💻 <b>当前专注：</b> 算法、开源协作与自动化工具探索</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 我的 GitHub 战斗力看板
-<!-- 核心亮点：利用 github-readme-stats 自动生成实时数据卡片 -->
-<p align="center">
-  <!-- 基础战斗力数据卡片 (Radical 主题) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Stockfish-2921769&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="49%" />
-  
-  <!-- 最常用语言饼图卡片 (Radical 主题) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stockfish-2921769&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-</p>
+## ✍️ 我的博客 / My Articles
+
+*这里记录了我的技术思考与生活随笔，欢迎订阅与交流：*
+
+* 📌 [**近期的技术复盘与思考**](https://your-blog-link.com/post-1) — *“探索高效工具的本质意义”*
+* 📌 [**我是如何配置我的极客终端的**](https://your-blog-link.com/post-2) — *“打造最顺手的生产力工具”*
+* 📌 [**GitHub 从零单排指南**](https://your-blog-link.com/post-3) — *“从第一条 Git 命令说起”*
 
 ---
 
-<p align="center">
-  <!-- 额外添加一个 GitHub 连续打卡日历卡片 (可选) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stockfish-2921769&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+## 🎵 多媒体角落 / Multimedia Corner
+
+*深夜写代码时的白噪音与灵感来源。*
+
+<!-- 优雅折叠的多媒体元素，保持主页极致干净，点击即可展开 -->
+<details>
+<summary>💿 点击展开我最爱的环境音 (Audio)</summary>
+<br>
+<audio src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" controls preload="none" style="width: 100%; max-width: 400px;"></audio>
+<p><i>💡 提示：这是一个 HTML5 原生音频播放器，你可以在 src 里替换成任何你喜欢的 MP3 直链。</i></p>
+</details>
+
+<details>
+<summary>🎬 点击展开灵感视频 (Video)</summary>
+<br>
+<!-- 引入一个优雅的演示动图或视频流 -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5Y2F3dm55NWhvOHg5c215NTJ5dGpxb2xtd3B5Z3d5c3R5c3RxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3p50WGyUqhU52/giphy.gif" width="100%" max-width="500" alt="Coding GIF" style="border-radius: 6px;"/>
+</details>
 
 ---
 
-### 📬 怎么找到我？
-* 🌐 个人博客: [你的博客链接](https://example.com) (快用 GitHub Pages 建一个吧！)
-* 📧 电子邮箱: `your-email@example.com`
+## 📬 保持联系 / Connect with me
+
+* 🌐 **个人主页：** [stockfish-2921769.github.io](https://stockfish-2921769.github.io)
+* 📧 **电子邮箱：** `weizhuofan@example.com` *(可以改成你真实的邮箱)*
+* 💬 **GitHub：** [@Stockfish-2921769](https://github.com/Stockfish-2921769)
