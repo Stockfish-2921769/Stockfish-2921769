@@ -28,12 +28,12 @@
 
 * 📌 [**东南日记**](https://your-blog-link.com/post-1)
 * 📌 [**宿醉之星**](https://your-blog-link.com/post-2) 
-* 📌 [**VLA**](https://your-blog-link.com/post-3) — *“从第一条 Git 命令说起”*
+
 
 ---
 
 ## ✍️ 技术经验分享 / 
-
+* 📌 [**基于UR03机械臂的OpenVLA复现调优**](https://your-blog-link.com/post-3) 
 </details>
 
 ---
@@ -41,5 +41,5 @@
 ## 📬 保持联系 / Connect with me
 
 * 🌐 **个人主页：** [https://github.com/Stockfish-2921769](https://github.com/Stockfish-2921769)
-* 📧 **电子邮箱：** `weizhuofan2002@gmail.com
-* 💬 **Wechat：** [w2921769]
+* 📧 **电子邮箱：** weizhuofan2002@gmail.com
+* 💬 **Wechat：** w2921769
