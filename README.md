@@ -40,6 +40,6 @@
 
 ## 📬 保持联系 / Connect with me
 
-* 🌐 **个人主页：** [stockfish-2921769.github.io](https://stockfish-2921769.github.io)
-* 📧 **电子邮箱：** `weizhuofan@example.com` *(可以改成你真实的邮箱)*
-* 💬 **GitHub：** [@Stockfish-2921769](https://github.com/Stockfish-2921769)
+* 🌐 **个人主页：** [https://github.com/Stockfish-2921769](https://github.com/Stockfish-2921769)
+* 📧 **电子邮箱：** `weizhuofan2002@gmail.com
+* 💬 **Wechat：** [w2921769]
