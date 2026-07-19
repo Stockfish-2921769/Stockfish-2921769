@@ -1,15 +1,10 @@
 <style>
-  /* 彻底隐藏大标题和子标题后面的 🔗 符号 */
-  .anchor, .header-link { display: none !important; }
-  
-  /* 剥夺标题内所有链接的点击功能、下划线和颜色，让它们伪装成普通文本 */
-  h1 a, h2 a, h3 a { 
-    pointer-events: none !important; 
-    cursor: default !important; 
-    color: inherit !important; 
-    text-decoration: none !important; 
+  /* 彻底隐藏所有标题自动渲染出来的 🔗 符号和锚点链接 */
+  .anchor, .header-link, .markdown-body a.anchor, .markdown-body a.header-link { 
+    display: none !important; 
   }
 </style>
+
 ## 关于我 | About Me
 
 <table border="0">
