@@ -1,11 +1,6 @@
-# 🪐 Stockfish-2921769
 
-> **“ Stay hungry, stay foolish. 用代码探寻世界的边界。”**
-> — *An open-source enthusiast.*
 
----
-
-## 👤 关于我 / About Me
+##  关于我 | About Me
 
 <table border="0">
   <tr>
@@ -22,7 +17,7 @@
 
 ---
 
-## ✍️ 我的博客 / My Articles
+## 我的博客 | My Articles
 
 *纸上画火,画火御寒：*
 
@@ -32,7 +27,7 @@
 
 ---
 
-## ✍️ 技术经验分享 / 
+## 我的项目 | 技术经验分享 
 * 📌 [**基于UR03机械臂的OpenVLA复现调优**](https://your-blog-link.com/post-3) 
 </details>
 
