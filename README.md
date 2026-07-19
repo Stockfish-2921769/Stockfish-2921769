@@ -33,6 +33,6 @@
 
 ##  联系方式 / Connect with me
 
-* 🌐 **个人主页：** [https://github.com/Stockfish-2921769.io](https://github.com/Stockfish-2921769/Stockfish-2921769.io)
+* 🌐 **个人主页：** [https://github.com/Stockfish-2921769.io](https://stockfish-2921769.github.io/Stockfish-2921769/)
 * 📧 **电子邮箱：** weizhuofan2002@gmail.com
 * 💬 **Wechat：** w2921769
