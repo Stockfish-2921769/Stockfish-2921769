@@ -24,7 +24,7 @@
 
 ## ✍️ 我的博客 / My Articles
 
-*生活随笔，纸上画火,画火御寒：*
+*纸上画火,画火御寒：*
 
 * 📌 [**东南日记**](https://your-blog-link.com/post-1)
 * 📌 [**宿醉之星**](https://your-blog-link.com/post-2) 
@@ -40,6 +40,6 @@
 
 ## 📬 保持联系 / Connect with me
 
-* 🌐 **个人主页：** [https://github.com/Stockfish-2921769](https://github.com/Stockfish-2921769)
+* 🌐 **个人主页：** [https://github.com/Stockfish-2921769](https://github.com/Stockfish-2921769/Stockfish-2921769)
 * 📧 **电子邮箱：** weizhuofan2002@gmail.com
 * 💬 **Wechat：** w2921769
