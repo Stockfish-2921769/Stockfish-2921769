@@ -6,34 +6,32 @@
   <tr>
     <td width="120" valign="top">
       <!-- 自动调用你 GitHub 的官方高清头像，完美保持同步 -->
-      <img src="https://github.com/Stockfish-2921769.png" width="100" style="border-radius: 50%; border: 2px solid #e1e4e8;" alt="Profile Picture"/>
+      <img src="https://github.com/Stockfish-2921769.png" width="120" style="border-radius: 50%; border: 2px solid #e1e4e8;" alt="Profile Picture"/>
     </td>
     <td valign="top">
       <p>你好，这里是鳕鱼。</p>
-      <p>💻 <b>当前专注：</b> VLA、端侧推理加速、开源工具协助</p>
+      <p><b>当前专注：</b> VLA、端侧推理加速、开源工具协助</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 我的博客 | My Articles
+## 我的博客 | My Blogs
 
 *纸上画火,画火御寒：*
 
-* 📌 [**东南日记**](https://your-blog-link.com/post-1)
-* 📌 [**宿醉之星**](https://your-blog-link.com/post-2) 
-
-
----
-
-## 我的项目 | 技术经验分享 
-* 📌 [**基于UR03机械臂的OpenVLA复现调优**](https://your-blog-link.com/post-3) 
-</details>
+*  [**东南日记**](https://your-blog-link.com/post-1)
+*  [**宿醉之星**](https://your-blog-link.com/post-2) 
 
 ---
 
-## 📬 保持联系 / Connect with me
+## 我的项目 | My Projects 
+*  [**基于UR03机械臂的OpenVLA复现调优**](https://your-blog-link.com/post-3) 
+
+---
+
+##  联系方式 / Connect with me
 
 * 🌐 **个人主页：** [https://github.com/Stockfish-2921769.io](https://github.com/Stockfish-2921769/Stockfish-2921769.io)
 * 📧 **电子邮箱：** weizhuofan2002@gmail.com
