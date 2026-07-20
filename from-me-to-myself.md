@@ -2,7 +2,7 @@
 
 > 2022.2.10
 
-<img src="https://raw.githubusercontent.com/Stockfish-2921769/Stockfish-2921769/main/from-me-to-myself.jpg" width="400" alt="From me to myself"/>
+<img src="./from-me-to-myself.jpg" width="400" alt="From me to myself"/>
 
 从一开始觉得孤独、导致不适，到发现和自己交流的乐趣、沉迷其中。之后享受孤独。
 

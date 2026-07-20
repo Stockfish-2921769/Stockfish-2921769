@@ -18,7 +18,7 @@
 *纸上画火，画火御寒：*
 
 - **东南日记**
-  - [From me to myself](./From%20me%20to%20myself.md)
+  - [From me to myself](./from-me-to-myself.md)
   - [《我该用什么留住你》](./《我该用什么留住你》.md)
   - [火光](./火光.md)
   - [追逐阿航](./追逐阿航.md)
