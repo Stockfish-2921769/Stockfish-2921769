@@ -4,8 +4,8 @@
       <img src="https://github.com/stockfish-2921769.png" width="120" style="border-radius: 50%; border: 2px solid #e1e4e8;" alt="Profile Picture"/>
     </td>
     <td valign="top">
-      <p>你好，这里是鳕鱼。</p>
-      <p><b>教育背景：</b> SEU → Waseda</p>
+      <p>欢迎进入我的主页，这里是鳕鱼，喜欢国际象棋，羽毛球和流行音乐(后摇&爵士)</p>
+      <p><b>我的背景：</b> SEU → Waseda</p>
       <p><b>当前专注：</b> VLA、端侧推理加速、开源工具协助</p>
     </td>
   </tr>
@@ -17,7 +17,13 @@
 
 *纸上画火，画火御寒：*
 
-- **东南日记** — [阅读](<!-- TODO: 更新链接 -->)
+- **东南日记**
+  - [《我该用什么留住你》](./《我该用什么留住你》.pdf)
+  - [From me to myself](./From%20me%20to%20myself.pdf)
+  - [念](./念.pdf)
+  - [火光](./火光.pdf)
+  - [追逐阿航](./追逐阿航.pdf)
+  - [雨](./雨.pdf)
 - **宿醉之星** — [阅读](<!-- TODO: 更新链接 -->)
 
 ---
@@ -29,7 +35,7 @@
 ---
 
 ## 学术发表 | Publications
-
+<这里空空如也,什么也没有留下>
 <!-- TODO: 添加学术发表内容 -->
 
 ---
