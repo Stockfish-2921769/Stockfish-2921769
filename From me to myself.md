@@ -2,7 +2,7 @@
 
 > 2022.2.10
 
-![From me to myself](./from-me-to-myself.jpg)
+<img src="./from-me-to-myself.jpg" width="400" alt="From me to myself"/>
 
 从一开始觉得孤独、导致不适，到发现和自己交流的乐趣、沉迷其中。之后享受孤独。
 
