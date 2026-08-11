@@ -33,16 +33,17 @@
 <details>
 <summary><b>东南日记</b></summary>
 
-- [From me to myself](from-me-to-myself.md)
-- [《我该用什么留住你》](《我该用什么留住你》.md)
-- [火光](火光.md)
-- [追逐阿航](追逐阿航.md)
-- [雨](雨.md)
-- [念](念.md)
+- [From me to myself](https://github.com/Stockfish-2921769/Stockfish-2921769/blob/main/from-me-to-myself.md)
+- [《我该用什么留住你》](https://github.com/Stockfish-2921769/Stockfish-2921769/blob/main/%E3%80%8A%E6%88%91%E8%AF%A5%E7%94%A8%E4%BB%80%E4%B9%88%E7%95%99%E4%BD%8F%E4%BD%A0%E3%80%8B.md)
+- [火光](https://github.com/Stockfish-2921769/Stockfish-2921769/blob/main/%E7%81%AB%E5%85%89.md)
+- [追逐阿航](https://github.com/Stockfish-2921769/Stockfish-2921769/blob/main/%E8%BF%BD%E9%80%90%E9%98%BF%E8%88%AA.md)
+- [雨](https://github.com/Stockfish-2921769/Stockfish-2921769/blob/main/%E9%9B%A8.md)
+- [念](https://github.com/Stockfish-2921769/Stockfish-2921769/blob/main/%E5%BF%B5.md)
 
 </details>
+
 - [**宿醉之星**](#)
-- [**风格练习四则**](风格练习四则.md)
+- [**风格练习四则**](https://github.com/Stockfish-2921769/Stockfish-2921769/blob/main/%E9%A3%8E%E6%A0%BC%E7%BB%83%E4%B9%A0%E5%9B%9B%E5%88%99.md)
 
 ---
 
