@@ -15,10 +15,10 @@
 
 ## 项目 | Projects
 
-- [**基于UR03机械臂的OpenVLA复现调优**](https://github.com/Stockfish-2921769/OpenVLA_UR03Deployment)
-- [**按压药瓶实验**](https://github.com/Stockfish-2921769/press-medicine-bottle)
-- [**料框识别算法**](https://github.com/Stockfish-2921769/forklift-perception-learning)
-- [**Runips**](https://github.com/Stockfish-2921769/Runips.com)
+- [**UR3上的OpenVLA部署和SFT**](https://github.com/Stockfish-2921769/OpenVLA_UR03Deployment)
+- [**灵巧手按压药瓶技能的强化学习**](https://github.com/Stockfish-2921769/press-medicine-bottle)
+- [**面向自主叉车的料框点云感知与识别算法**](https://github.com/Stockfish-2921769/forklift-perception-learning)
+- [**RunIPS：面向早稻田IPS的研究室评价与信息平台**](https://github.com/Stockfish-2921769/Runips.com)
 
 ---
 
