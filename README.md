@@ -1,72 +1,40 @@
----
-layout: home
----
-
-<div align="center">
-
-| <img src="https://github.com/stockfish-2921769.png" width="120" style="border-radius:50%"> | **韦卓帆 / Wei Zhuofan** |
-|:---:|:---|
-| | 🎓 SEU (EE) → Waseda IPS (Robotics) |
-| | 🤖 轻量 VLA · 灵巧操控 RL · 机器人感知 |
-| | ♟️ 国际象棋 · 🏸 羽毛球 · 🎵 后摇 & 爵士 |
-
-[![Email](https://img.shields.io/badge/Email-weizhuofan2002%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:weizhuofan2002@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-w2921769-07C160?logo=wechat&logoColor=white)](#)
-[![Homepage](https://img.shields.io/badge/Homepage-stockfish--2921769-blue?logo=github)](https://stockfish-2921769.github.io/Stockfish-2921769/)
-
-</div>
+<table border="0">
+  <tr>
+    <td width="140" valign="top">
+      <img src="https://github.com/stockfish-2921769.png" width="120" style="border-radius: 50%; border: 2px solid #e1e4e8;" alt="Profile Picture"/>
+    </td>
+    <td valign="top">
+      <p>欢迎进入我的主页，这里是鳕鱼，喜欢国际象棋，羽毛球和流行音乐(后摇&爵士)</p>
+      <p><b>我的背景：</b> SEU → Waseda</p>
+      <p><b>当前专注：</b> 轻量化VLA,无人机控制</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 项目 | Projects
 
-### 🤖 Robotics & Embodied AI
-
-| Repo | 一句话 | 关键指标 |
-|------|--------|---------|
-| [**SomaVLA**](https://github.com/Stockfish-2921769/SomaVLA) | 分层 MoE+NCA 轻量控制架构；硕士论文前期工作 | 464 Hz · 15,905 params · 100% closed-loop |
-| [**OpenVLA UR3 Deployment**](https://github.com/Stockfish-2921769/OpenVLA_UR03Deployment) | 7B VLA 在真实 UR3 机械臂的全闭环部署 + 异步解耦推理 | LoRA SFT · LIBERO eval · URScript |
-| [**press-medicine-bottle**](https://github.com/Stockfish-2921769/press-medicine-bottle) | 灵巧手 PPO 策略学习，全速产线抓取药瓶并按压喷嘴 | 4.28 瓶/ep · 6档异构泛化 100% · 0 timeout |
-| [**forklift-perception-learning**](https://github.com/Stockfish-2921769/forklift-perception-learning) | 面向自主叉车的点云料框识别：模板匹配 + RANSAC + ICP | 上汽大通仓储落地 |
-
-### 🌐 Tools & Platforms
-
-| Repo | 一句话 |
-|------|--------|
-| [**RunIPS**](https://github.com/Stockfish-2921769/Runips.com) | 面向早稻田 IPS 研究科的研究室评价与信息平台 |
-
----
-
-## 研究方向 | Research Focus
-
-```
-轻量 VLA (Lightweight VLA)
-├── 高效推理架构 ── SomaVLA (MoE + NCA, 15905 params, 464 Hz)
-├── 视觉感知前插 ── SigLIP frozen head (3.7 mm localisation)
-└── 硕士论文方向 ── 基于 MoT 与进度感知的轻量 VLA
-
-具身操控 (Embodied Manipulation)
-├── VLA 真实臂部署 ── OpenVLA UR3 (异步解耦推理)
-└── 灵巧手 RL ────── press-medicine-bottle (PPO, Isaac Lab)
-
-机器人感知 (Robot Perception)
-└── 点云识别 ──── forklift-perception (RANSAC+ICP, 仓储落地)
-```
+- [**UR3上的OpenVLA部署和SFT**](https://github.com/Stockfish-2921769/OpenVLA_UR03Deployment)
+- [**灵巧手按压药瓶技能的强化学习**](https://github.com/Stockfish-2921769/press-medicine-bottle)
+- [**面向自主叉车的料框点云感知与识别算法**](https://github.com/Stockfish-2921769/forklift-perception-learning)
+- [**RunIPS：面向早稻田IPS的研究室评价与信息平台**](https://github.com/Stockfish-2921769/Runips.com)
 
 ---
 
 ## 学术发表 | Publications
 
-> *In preparation — master's thesis on lightweight VLA (Waseda IPS, expected 2028)*
+<这里空空如也,什么也没有留下>
+<!-- TODO: 添加学术发表内容 -->
 
 ---
 
 ## 博客 | Blogs
 
-*纸上画火，画火御寒 · 东南日记*
+*纸上画火，画火御寒：*
 
-<details>
-<summary>展开文章列表</summary>
+<details markdown="1">
+<summary><b>东南日记</b></summary>
 
 - [From me to myself](https://stockfish-2921769.github.io/Stockfish-2921769/from-me-to-myself.html)
 - [念](https://stockfish-2921769.github.io/Stockfish-2921769/%E5%BF%B5.html)
@@ -75,14 +43,16 @@ layout: home
 - [《我该用什么留住你》](https://stockfish-2921769.github.io/Stockfish-2921769/%E3%80%8A%E6%88%91%E8%AF%A5%E7%94%A8%E4%BB%80%E4%B9%88%E7%95%99%E4%BD%8F%E4%BD%A0%E3%80%8B.html)
 - [火光](https://stockfish-2921769.github.io/Stockfish-2921769/%E7%81%AB%E5%85%89.html)
 - [雨](https://stockfish-2921769.github.io/Stockfish-2921769/%E9%9B%A8.html)
-- [风格练习四则](https://stockfish-2921769.github.io/Stockfish-2921769/%E9%A3%8E%E6%A0%BC%E7%BB%83%E4%B9%A0%E5%9B%9B%E5%88%99.html)
 
 </details>
 
+- [**宿醉之星**](#)
+- [**风格练习四则**](https://stockfish-2921769.github.io/Stockfish-2921769/%E9%A3%8E%E6%A0%BC%E7%BB%83%E4%B9%A0%E5%9B%9B%E5%88%99.html)
+
 ---
 
-## 📬 联系 | Contact
+## 📬 联系方式 | Connect with me
 
-- **邮箱 Email：** weizhuofan2002@gmail.com
-- **微信 WeChat：** w2921769
-- **主页 Homepage：** [stockfish-2921769.github.io](https://stockfish-2921769.github.io/Stockfish-2921769/)
+- 🌐 **Homepage：** [stockfish-2921769.github.io](https://stockfish-2921769.github.io/Stockfish-2921769/)
+- 📧 **Email：** weizhuofan2002@gmail.com
+- 💬 **Wechat：** w2921769
